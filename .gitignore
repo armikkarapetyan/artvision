@@ -1,3 +1,11 @@
 node_modules/
 .env
 .DS_Store
+
+dataset/downloads/
+dataset/raw/
+
+dataset/**/*.jpg
+dataset/**/*.jpeg
+dataset/**/*.png
+dataset/**/*.webp
